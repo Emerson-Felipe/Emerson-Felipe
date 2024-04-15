@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]
+# Olá, eu sou [Emerson Oliveira]
 
 ## Sobre Mim
 Eu sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento de software. Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
