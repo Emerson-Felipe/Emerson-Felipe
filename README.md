@@ -10,4 +10,4 @@ Sou um entusiasta da tecnologia com um interesse particular em Análise de Dados
 
 ## Contato
 - LinkedIn: [Emerson Oliveira](www.linkedin.com/in/emerson-oliveira-6488ba27a)
-- Email: [felipe.com987@gmail.com]
+- Email: felipe.com987@gmail.com
