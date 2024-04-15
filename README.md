@@ -1,7 +1,7 @@
-# Olá, eu sou [Emerson Oliveira]
+# Olá, eu sou Emerson Oliveira
 
 ## Sobre Mim
-Eu sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento de software. Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+Sou um entusiasta da tecnologia com um interesse particular em Análise de Dados.
 
 ## Tecnologias
 - Linguagem de Programação: ['Python']
